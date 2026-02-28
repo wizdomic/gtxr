@@ -1,6 +1,6 @@
-# WizP
+# GTXR
 
-![Version](https://img.shields.io/npm/v/wizp)
+![Version](https://img.shields.io/npm/v/gtxr)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Node](https://img.shields.io/badge/Node.js-18%2B-green)
 ![Platforms](https://img.shields.io/badge/platform-Linux%20%7C%20macOS%20%7C%20Windows-brightgreen)
@@ -13,7 +13,7 @@ No Python. No pip. No SSL issues. Just Node.js.
 ## Install
 
 ```bash
-npm install -g @wizdomic/wizp
+npm install -g @wizdomic/gtxr
 ```
 
 ---
@@ -21,7 +21,7 @@ npm install -g @wizdomic/wizp
 ## Setup
 
 ```bash
-wizp setup
+gtxr setup
 ```
 
 Choose a provider and paste your API key. Skippable — works without AI too.
@@ -37,7 +37,7 @@ Choose a provider and paste your API key. Skippable — works without AI too.
 ## Usage
 
 ```bash
-wizp
+gtxr
 ```
 
 ```
@@ -65,14 +65,18 @@ Push to remote? (y/n) [y]: y
 
 | Command | Description |
 |---------|-------------|
-| `wizp` | Full workflow — add → commit → push |
-| `wizp setup` | Configure AI provider and API key |
-| `wizp upgrade` | Upgrade to latest version |
-| `wizp uninstall` | Remove WizP from your system |
-| `wizp --no-push` | Commit only, skip push |
-| `wizp --no-ai` | Skip AI, type message manually |
-| `wizp --force-push` | Force push ⚠️ destructive |
-| `wizp --branch <n>` | Switch or create branch before committing |
-| `wizp --help` | Show all commands |
+| `gtxr` | Full workflow — add → commit → push |
+| `gtxr setup` | Configure AI provider and API key |
+| `gtxr upgrade` | Upgrade to latest version |
+| `gtxr uninstall` | Remove GTXR from your system |
+| `gtxr --no-push` | Commit only, skip push |
+| `gtxr --no-ai` | Skip AI, type message manually |
+| `gtxr --force-push` | Force push ⚠️ destructive |
+| `gtxr --branch <n>` | Switch or create branch before committing |
+| `gtxr --help` | Show all commands |
 
----# gtxr
+---
+
+## License
+
+MIT
