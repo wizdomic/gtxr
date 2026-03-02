@@ -76,7 +76,3 @@ Push to remote? (y/n) [y]: y
 | `gtxr --help` | Show all commands |
 
 ---
-
-## License
-
-MIT
