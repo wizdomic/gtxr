@@ -5,8 +5,7 @@
 ![Node](https://img.shields.io/badge/Node.js-18%2B-green)
 ![Platforms](https://img.shields.io/badge/platform-Linux%20%7C%20macOS%20%7C%20Windows-brightgreen)
 
-AI-powered Git workflow automation. Stage, commit, and push in one command.  
-No Python. No pip. No SSL issues. Just Node.js.
+AI-powered Git workflow automation. Stage, commit, and push in one command.
 
 ---
 
